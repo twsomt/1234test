@@ -54,7 +54,6 @@ Content-Type: application/json
 
 Body:
 {
-  "title": "New Meme",
   "description": "A funny meme",
   "image": "<base64-encoded-image>"
 }
